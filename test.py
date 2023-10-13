@@ -14,3 +14,5 @@ def test_getStatus():
      bulb.isOff()
      assert bulb.getstatus()=="Bulb is not glowing"
 
+def fajrcheck():
+    print("HELLOOOO!")

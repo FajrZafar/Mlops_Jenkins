@@ -16,3 +16,4 @@ def test_getStatus():
 
 def fajrcheck():
     print("HELLOOOO!")
+    print("Yes.....")
